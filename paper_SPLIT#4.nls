@@ -1,0 +1,80 @@
+\begin{thenomenclature} 
+
+ \nomgroup{Symbols}
+
+  \item [{$T$}]\begingroup temperature, K\nomeqref {5}\nompageref{7}
+  \item [{$\bar{e}$}]\begingroup specific exergy (molar), J/mol\nomeqref {6}
+		\nompageref{8}
+  \item [{$\dot{E}$}]\begingroup exergy rate, W\nomeqref {5}
+		\nompageref{7}
+  \item [{$\dot{I}$}]\begingroup irreversibilities rate, W\nomeqref {15}
+		\nompageref{9}
+  \item [{$\dot{S}$}]\begingroup entropy rate, W/K\nomeqref {5}
+		\nompageref{7}
+  \item [{$e$}]\begingroup specific exergy (mass), J/kg\nomeqref {5}
+		\nompageref{7}
+  \item [{$h$}]\begingroup specific enthalpy (mass), J/kg\nomeqref {1}
+		\nompageref{7}
+  \item [{$h_{dev}$}]\begingroup specific enthalpy of devaluation (mass), J/kg\nomeqref {1}
+		\nompageref{7}
+  \item [{$p$}]\begingroup pressure, Pa\nomeqref {5}\nompageref{7}
+  \item [{$s$}]\begingroup specific entropy (mass), J/(kg$\cdot$K)\nomeqref {8}
+		\nompageref{8}
+  \item [{$y$}]\begingroup component/sub-system exergy ratio\nomeqref {6}
+		\nompageref{8}
+  \item [{h}]\begingroup specific total enthalpy (mass), J/kg\nomeqref {1}
+		\nompageref{7}
+
+ \nomgroup{A}
+
+  \item [{ASPEN}]\begingroup Advanced System for Process Engineering\nomeqref {0}
+		\nompageref{2}
+  \item [{ORC}]\begingroup Organic Rankine Cycle\nomeqref {0}
+		\nompageref{2}
+  \item [{SC}]\begingroup Split Cycle\nomeqref {0}\nompageref{2}
+  \item [{SUB}]\begingroup sub-cooled state\nomeqref {0}\nompageref{2}
+  \item [{SUP}]\begingroup superheated state\nomeqref {0}\nompageref{2}
+  \item [{WHR}]\begingroup waste heat recovery\nomeqref {0}
+		\nompageref{2}
+
+ \nomgroup{G}
+
+  \item [{$\delta$}]\begingroup efficiency defect\nomeqref {15}
+		\nompageref{9}
+  \item [{$\lambda$}]\begingroup irreversibility ratio\nomeqref {15}
+		\nompageref{9}
+  \item [{$\varepsilon$}]\begingroup exergy efficiency\nomeqref {15}
+		\nompageref{9}
+
+ \nomgroup{P}
+
+  \item [{$^{*}$}]\begingroup relative\nomeqref {5}\nompageref{7}
+  \item [{ch}]\begingroup chemical\nomeqref {6}\nompageref{8}
+  \item [{kn}]\begingroup kinetic\nomeqref {6}\nompageref{8}
+  \item [{ph}]\begingroup physical\nomeqref {6}\nompageref{8}
+  \item [{pt}]\begingroup potential\nomeqref {6}\nompageref{8}
+  \item [{q}]\begingroup heat\nomeqref {11}\nompageref{8}
+  \item [{w}]\begingroup work\nomeqref {11}\nompageref{8}
+
+ \nomgroup{S}
+
+  \item [{0}]\begingroup dead state\nomeqref {5}\nompageref{7}
+  \item [{b}]\begingroup bubble point\nomeqref {0}\nompageref{5}
+  \item [{cv}]\begingroup control volume\nomeqref {1}\nompageref{7}
+  \item [{cw}]\begingroup cooling water\nomeqref {16}\nompageref{9}
+  \item [{d}]\begingroup destruction\nomeqref {5}\nompageref{7}
+  \item [{f}]\begingroup fuel\nomeqref {15}\nompageref{9}
+  \item [{gen}]\begingroup generation\nomeqref {5}\nompageref{7}
+  \item [{i}]\begingroup chemical compound\nomeqref {9}\nompageref{8}
+  \item [{in}]\begingroup inlet\nomeqref {1}\nompageref{7}
+  \item [{j}]\begingroup stream\nomeqref {8}\nompageref{8}
+  \item [{k}]\begingroup component\nomeqref {1}\nompageref{7}
+  \item [{l}]\begingroup loss\nomeqref {5}\nompageref{7}
+  \item [{mix}]\begingroup mixture\nomeqref {9}\nompageref{8}
+  \item [{out}]\begingroup outlet\nomeqref {1}\nompageref{7}
+  \item [{p}]\begingroup product\nomeqref {15}\nompageref{9}
+  \item [{r}]\begingroup rich ammonia concentration\nomeqref {0}
+		\nompageref{5}
+  \item [{tot}]\begingroup total\nomeqref {15}\nompageref{9}
+
+\end{thenomenclature}

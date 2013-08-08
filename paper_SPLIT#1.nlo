@@ -1,0 +1,51 @@
+\nomenclatureentry{AASPEN@[{ASPEN}]\begingroup Advanced System for Process Engineering\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{AWHR@[{WHR}]\begingroup Waste Heat Recovery\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{AORC@[{ORC}]\begingroup Organic Rankine Cycle\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ASC@[{SC}]\begingroup Split Cycle\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ASUP@[{SUP}]\begingroup Superheated state\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ASUB@[{SUB}]\begingroup Subcooled state\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{M$\dot{m}$@[{$\dot{m}$}]\begingroup Mass flow rate (kg/s)\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{M$h$@[{$h$}]\begingroup Specific enthalpy (kJ/kg)\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{M$x$@[{$x$}]\begingroup Concentration by mass (-)\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{M$P$@[{$P$}]\begingroup Pressure (bar)\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{M$q$@[{$q$}]\begingroup Vapour quality (-)\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{Sr@[{r}]\begingroup Rich ammonia concentration\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{Sb@[{b}]\begingroup Bubble point\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{0h@[{h}]\begingroup specific total enthalpy (mass) [J/kg]\nomeqref {1}|nompageref}{5}
+\nomenclatureentry{Sk@[{k}]\begingroup component\nomeqref {1}|nompageref}{5}
+\nomenclatureentry{Scv@[{cv}]\begingroup control volume\nomeqref {1}|nompageref}{5}
+\nomenclatureentry{Sin@[{in}]\begingroup inlet\nomeqref {1}|nompageref}{5}
+\nomenclatureentry{Sout@[{out}]\begingroup outlet\nomeqref {1}|nompageref}{5}
+\nomenclatureentry{0$\hat{h}$@[{$\hat{h}$}]\begingroup specific energy (mass) [J/kg]\nomeqref {2}|nompageref}{5}
+\nomenclatureentry{AHHV@[{HHV}]\begingroup Higher Heating Value [J/kg]\nomeqref {2}|nompageref}{5}
+\nomenclatureentry{0e@[{e}]\begingroup specific exergy (mass) [J/kg]\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{0$\dot{S}$@[{$\dot{S}$}]\begingroup Entropy rate [MW/K]\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{Sgen@[{gen}]\begingroup generation\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{0p@[{p}]\begingroup pressure [MPa]\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{0$\dot{E}$@[{$\dot{E}$}]\begingroup Exergy rate [MW]\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{Sd@[{d}]\begingroup destruction\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{Sl@[{l}]\begingroup loss\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{S0@[{0}]\begingroup dead state\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{P$^{*}$@[{$^{*}$}]\begingroup relative\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{0T@[{T}]\begingroup Temperature [K]\nomeqref {4}|nompageref}{5}
+\nomenclatureentry{Pph@[{ph}]\begingroup physical\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{Pch@[{ch}]\begingroup chemical\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{Pkn@[{kn}]\begingroup kinetic\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{Ppt@[{pt}]\begingroup potential\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{0$\bar{e}$@[{$\bar{e}$}]\begingroup specific exergy (molar) [J/mol]\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{0y@[{y}]\begingroup component/sub-system exergy ratio\nomeqref {5}|nompageref}{6}
+\nomenclatureentry{0$h$@[{$h$}]\begingroup specific enthalpy (mass), J/kg\nomeqref {7}|nompageref}{6}
+\nomenclatureentry{0$s$@[{$s$}]\begingroup specific entropy (mass), J/(kg$\cdot$K)\nomeqref {7}|nompageref}{6}
+\nomenclatureentry{Sj@[{j}]\begingroup stream\nomeqref {7}|nompageref}{6}
+\nomenclatureentry{Si@[{i}]\begingroup chemical compound\nomeqref {8}|nompageref}{6}
+\nomenclatureentry{Smix@[{mix}]\begingroup mixture\nomeqref {8}|nompageref}{6}
+\nomenclatureentry{Pw@[{w}]\begingroup work\nomeqref {10}|nompageref}{6}
+\nomenclatureentry{Pq@[{q}]\begingroup heat\nomeqref {10}|nompageref}{6}
+\nomenclatureentry{G$\lambda$@[{$\lambda$}]\begingroup irreversibility ratio\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{0$\dot{I}$@[{$\dot{I}$}]\begingroup Irreversibilities rate [MW]\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{G$\varepsilon$@[{$\varepsilon$}]\begingroup exergy efficiency\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{G$\delta$@[{$\delta$}]\begingroup efficiency defect\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{Sf@[{f}]\begingroup fuel\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{Sp@[{p}]\begingroup product\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{Stot@[{tot}]\begingroup total\nomeqref {16}|nompageref}{7}
+\nomenclatureentry{Scool@[{cool}]\begingroup cooling medium\nomeqref {18}|nompageref}{7}

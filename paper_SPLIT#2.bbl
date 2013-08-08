@@ -1,0 +1,136 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\eprint}[1]{\href{http://arxiv.org/abs/#1}{\path{#1}}}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\BIBand}{and}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\undefined \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Tchanche et~al.(2011)Tchanche, Lambrinos, Frangoudakis and
+  Papadakis}]{Tchanche20113963}
+\bibinfo{author}{Tchanche\xfnm[ B.F.]}, \bibinfo{author}{Lambrinos\xfnm[ G.]},
+  \bibinfo{author}{Frangoudakis\xfnm[ A.]}, \bibinfo{author}{Papadakis\xfnm[
+  G.]}.
+\newblock \bibinfo{title}{Low-grade heat conversion into power using organic
+  rankine cycles: A review of various applications}.
+\newblock \bibinfo{journal}{Renewable and Sustainable Energy Reviews}
+  \bibinfo{year}{2011};\bibinfo{volume}{15}(\bibinfo{number}{8}):\bibinfo{pages}{3963--3979}.
+\newblock \DOIprefix\doi{10.1016/j.rser.2011.07.024}.
+%Type = Article
+\bibitem[{Jonsson and Yan(2001)}]{Jonsson2001c}
+\bibinfo{author}{Jonsson\xfnm[ M.]}, \bibinfo{author}{Yan\xfnm[ J.]}.
+\newblock \bibinfo{title}{{Ammonia--water bottoming cycles: a comparison
+  between gas engines and gas diesel engines as prime movers}}.
+\newblock \bibinfo{journal}{Energy}
+  \bibinfo{year}{2001};\bibinfo{volume}{26}(\bibinfo{number}{1}):\bibinfo{pages}{31--44}.
+\newblock \DOIprefix\doi{10.1016/S0360-5442(00)00043-8}.
+%Type = Article
+\bibitem[{Bombarda et~al.(2010)Bombarda, Invernizzi and Pietra}]{Bombarda2010b}
+\bibinfo{author}{Bombarda\xfnm[ P.]}, \bibinfo{author}{Invernizzi\xfnm[ C.M.]},
+  \bibinfo{author}{Pietra\xfnm[ C.]}.
+\newblock \bibinfo{title}{{Heat recovery from Diesel engines: A thermodynamic
+  comparison between Kalina and ORC cycles}}.
+\newblock \bibinfo{journal}{Applied Thermal Engineering}
+  \bibinfo{year}{2010};\bibinfo{volume}{30}(\bibinfo{number}{2--3}):\bibinfo{pages}{212--219}.
+\newblock \DOIprefix\doi{10.1016/j.applthermaleng.2009.08.006}.
+%Type = Book
+\bibitem[{Bejan et~al.(1996)Bejan, Tsatsaronis and
+  Moran}]{BejanAdrian;TsatsaronisGeorge;Moran1996}
+\bibinfo{author}{Bejan\xfnm[ A.]}, \bibinfo{author}{Tsatsaronis\xfnm[ G.]},
+  \bibinfo{author}{Moran\xfnm[ M.]}.
+\newblock \bibinfo{title}{{Thermal Design \& Optimization}}.
+\newblock \bibinfo{address}{New York, USA}: \bibinfo{publisher}{John Wiley \&
+  Sons}; \bibinfo{year}{1996}.
+%Type = Book
+\bibitem[{Bejan(2006)}]{Bejan2006}
+\bibinfo{author}{Bejan\xfnm[ A.]}.
+\newblock \bibinfo{title}{{Advanced Engineering Thermodynamics}}.
+\newblock \bibinfo{edition}{Third} ed.; \bibinfo{address}{New York, USA}:
+  \bibinfo{publisher}{John Wiley \& Sons}; \bibinfo{year}{2006}.
+%Type = Article
+\bibitem[{Wall(1988)}]{Wall1988}
+\bibinfo{author}{Wall\xfnm[ G.]}.
+\newblock \bibinfo{title}{{Exergy flows in industrial processes}}.
+\newblock \bibinfo{journal}{Energy}
+  \bibinfo{year}{1988};\bibinfo{volume}{13}(\bibinfo{number}{2}):\bibinfo{pages}{197--208}.
+%Type = Article
+\bibitem[{Kotas(1980{\natexlab{a}})}]{Kotas1980}
+\bibinfo{author}{Kotas\xfnm[ T.J.]}.
+\newblock \bibinfo{title}{{Exergy concepts for thermal plant: First of two
+  papers on exergy techniques in thermal plant analysis}}.
+\newblock \bibinfo{journal}{International Journal of Heat and Fluid Flow}
+  \bibinfo{year}{1980}{\natexlab{a}};\bibinfo{volume}{2}(\bibinfo{number}{3}):\bibinfo{pages}{105--114}.
+%Type = Article
+\bibitem[{Kotas(1980{\natexlab{b}})}]{Kotas1980a}
+\bibinfo{author}{Kotas\xfnm[ T.J.]}.
+\newblock \bibinfo{title}{{Exergy Criteria of Performance for Thermal Plant:
+  Second of two papers on exergy techniques in thermal plant analysis}}.
+\newblock \bibinfo{journal}{International Journal of Heat and Fluid Flow}
+  \bibinfo{year}{1980}{\natexlab{b}};\bibinfo{volume}{2}(\bibinfo{number}{4}):\bibinfo{pages}{147--163}.
+%Type = Book
+\bibitem[{Kotas(1995)}]{Kotas1995}
+\bibinfo{author}{Kotas\xfnm[ T.J.]}.
+\newblock \bibinfo{title}{{The Exergy Method of Thermal Plant Analysis}}.
+\newblock \bibinfo{address}{Malabar, USA}: \bibinfo{publisher}{Krieger
+  Publishing}; \bibinfo{year}{1995}.
+%Type = Inproceedings
+\bibitem[{Kalina(1986)}]{Kalina1986a}
+\bibinfo{author}{Kalina\xfnm[ A.]}.
+\newblock \bibinfo{title}{{A Kalina cycle technology and its applications}}.
+\newblock \bibinfo{publisher}{American Institute of Chemical Engineers, New
+  York, NY United States of America}; \bibinfo{year}{1986},\URLprefix
+  \url{{http://www.osti.gov}}.
+%Type = Book
+\bibitem[{Szargut et~al.(1988)Szargut, Morris and Steward}]{Szargut1988}
+\bibinfo{author}{Szargut\xfnm[ J.]}, \bibinfo{author}{Morris\xfnm[ D.]},
+  \bibinfo{author}{Steward\xfnm[ F.]}.
+\newblock \bibinfo{title}{Exergy analysis of thermal, chemical, and
+  metallurgical processes}.
+\newblock \bibinfo{address}{New York, USA}: \bibinfo{publisher}{Hemisphere};
+  \bibinfo{year}{1988}.
+%Type = Inproceedings
+\bibitem[{Szargut(1998)}]{Szargut1998}
+\bibinfo{author}{Szargut\xfnm[ J.]}.
+\newblock \bibinfo{title}{Exergy in the thermal systems analysis}.
+\newblock In: \bibinfo{editor}{Bejan\xfnm[ A.]}, \bibinfo{editor}{Mamut\xfnm[
+  E.]}, editors. \bibinfo{booktitle}{Proceedings of the NATO Advanced Study
+  Institute on Thermodynamic Optimization of Complex Energy Systems};
+  vol.~\bibinfo{volume}{69} of \emph{\bibinfo{series}{NATO Science Series}}.
+  \bibinfo{address}{Neptun, Romania}: \bibinfo{publisher}{Kluwer Academic
+  Publishers}; \bibinfo{year}{1998}, p. \bibinfo{pages}{137--150}.
+%Type = Book
+\bibitem[{Moran and Shapiro(2007)}]{Moran2007}
+\bibinfo{author}{Moran\xfnm[ M.J.]}, \bibinfo{author}{Shapiro\xfnm[ H.N.]}.
+\newblock \bibinfo{title}{Fundamentals of Engineering Thermodynamics}.
+\newblock \bibinfo{edition}{6th} ed.; \bibinfo{address}{New York, USA}:
+  \bibinfo{publisher}{John Wiley \& Sons}; \bibinfo{year}{2007}.
+%Type = Article
+\bibitem[{Szargut(1989)}]{Szargut1989}
+\bibinfo{author}{Szargut\xfnm[ J.]}.
+\newblock \bibinfo{title}{{Chemical exergies of the elements}}.
+\newblock \bibinfo{journal}{Applied Energy}
+  \bibinfo{year}{1989};\bibinfo{volume}{32}(\bibinfo{number}{4}):\bibinfo{pages}{269--286}.
+%Type = Article
+\bibitem[{Morris and Szargut(1986)}]{Morris1986}
+\bibinfo{author}{Morris\xfnm[ D.R.]}, \bibinfo{author}{Szargut\xfnm[ J.]}.
+\newblock \bibinfo{title}{{Standard chemical exergy of some elements and
+  compounds on the planet earth}}.
+\newblock \bibinfo{journal}{Energy}
+  \bibinfo{year}{1986};\bibinfo{volume}{11}(\bibinfo{number}{8}):\bibinfo{pages}{733--755}.
+%Type = Book
+\bibitem[{Sato(2004)}]{Sato2004}
+\bibinfo{author}{Sato\xfnm[ N.]}.
+\newblock \bibinfo{title}{{Chemical Energy and Exergy: An Introduction to
+  Chemical Thermodynamics for Engineers}}.
+\newblock \bibinfo{edition}{1st} ed.; \bibinfo{address}{Amsterdam, The
+  Netherlands}: \bibinfo{publisher}{Elsevier}; \bibinfo{year}{2004}.
+
+\end{thebibliography}
